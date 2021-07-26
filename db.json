@@ -2,12 +2,12 @@
   "products": [
     {
       "id": "1",
-      "name": "Grunt Style American Reaper 2.0 T-Shirt - Black",
+      "name": "Indian American Biker T-Shirt Mens motorcycle unisex motorbike tee",
       "details": {
         "price": 19.99,
         "size": "xsmall",
         "tag": "Free Shipping",
-        "image": "https://i.ebayimg.com/images/g/1UAAAOSwH1VaowKU/s-l300.jpg",
+        "image": "https://i.ebayimg.com/images/g/cT4AAOSwAyBfZnBA/s-l1600.jpg",
         "type": "t-shirt"
       }
     },
@@ -37,7 +37,7 @@
       "id": "4",
       "name": "Men’s Fred Perry Dress Shirts - Long Sleeve Classic Collar Slim Fit Shirt",
       "details": {
-        "price": 51,
+        "price": 51.00,
         "size": "large",
         "tag": "Free Shipping",
         "image": "https://i.ebayimg.com/thumbs/images/m/mZC41E_NsQNFjBdaRJm2dIQ/s-l225.jpg",
@@ -51,7 +51,7 @@
         "price": 76.54,
         "size": "small",
         "tag": "Free Shipping",
-        "image": "https://i.ebayimg.com/thumbs/images/m/mkScah0HO1z3jp1rJ8wBhrA/s-l225.jpg",
+        "image": "https://i.ebayimg.com/images/g/22UAAOSwBIxgEIwP/s-l1600.jpg",
         "type": "dress shirts"
       }
     }
